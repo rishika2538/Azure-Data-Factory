@@ -1,0 +1,17 @@
+{
+	"name": "rishikaSqlServer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"server": "rishika.database.windows.net",
+			"database": "rishikadatabase",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "rishikaserver",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDFFRUIwMkE0LURCRDctNDdENC1BRjZDLTJGMUM3MjJEMzJERl9mNmQ1NDViNS0xMWFkLTRhZjAtYmI1MC00ZTIwZmJiNTExYzAiDQp9"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "batch1rishika",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2fc76cd3-7fba-4284-a581-0a9051409997",
+		"tenantId": "bebd4d17-5611-4c60-b6d7-1bf0cc2a7ba5"
+	}
+}
